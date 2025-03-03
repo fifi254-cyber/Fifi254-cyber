@@ -2,7 +2,7 @@ Hi there! 👋 Welcome to My GitHub Profile
 
 🚀 About Me
 
-I'm Fifi254-cyber, a passionate Social Media Manager with a love for coding, open-source projects, and continuous learning. I enjoy working on innovative solutions, exploring new technologies, and contributing to the developer community.
+I'm Felister Wanza, a passionate Social Media Manager with a love for coding, open-source projects, and continuous learning. I enjoy working on innovative solutions, exploring new technologies, and contributing to the developer community.
 
 💻 Technologies & Tools
 
